@@ -1,0 +1,7 @@
+F:\C# Programs\SwapNumbersXOR\bin\Debug\SwapNumbersXOR.exe.config
+F:\C# Programs\SwapNumbersXOR\bin\Debug\SwapNumbersXOR.exe
+F:\C# Programs\SwapNumbersXOR\bin\Debug\SwapNumbersXOR.pdb
+F:\C# Programs\SwapNumbersXOR\obj\Debug\SwapNumbersXOR.csprojAssemblyReference.cache
+F:\C# Programs\SwapNumbersXOR\obj\Debug\SwapNumbersXOR.csproj.CoreCompileInputs.cache
+F:\C# Programs\SwapNumbersXOR\obj\Debug\SwapNumbersXOR.exe
+F:\C# Programs\SwapNumbersXOR\obj\Debug\SwapNumbersXOR.pdb
